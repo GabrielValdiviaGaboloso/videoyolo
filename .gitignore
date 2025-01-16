@@ -1,0 +1,14 @@
+myenv/
+
+
+# Ignorar archivos específicos de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar archivos del sistema
+.DS_Store
+
+# Ignorar configuraciones de IDE
+.idea/
+.vscode/
